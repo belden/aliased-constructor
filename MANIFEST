@@ -1,0 +1,9 @@
+Makefile.PL
+MANIFEST
+MANIFEST.SKIP
+README.md
+lib/aliased/constructor.pm
+lib/aliased.pm
+t/lib/Ridiculously/Long/Package/Name/ConstructorIsNamedBuild/Elsewhere.pm
+t/lib/Ridiculously/Long/Package/Name/ConstructorIsNamedNew/Somewhere.pm
+t/aliased-constructor.t

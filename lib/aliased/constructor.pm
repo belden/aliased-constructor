@@ -4,6 +4,8 @@ use base qw(aliased);
 use strict;
 use warnings;
 
+our $VERSION = 0.01;
+
 my %constructor;
 
 sub import {
